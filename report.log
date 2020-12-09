@@ -1,0 +1,119 @@
+2020-10-25 15:13:23 - utils.py:27 - WARNING - pspnet.py:2 remove "import paddle.fluid as fluid"
+2020-10-25 15:13:23 - utils.py:27 - WARNING - pspnet.py:3 remove "from paddle.fluid.dygraph import to_variable"
+2020-10-25 15:13:23 - utils.py:27 - WARNING - pspnet.py:4 remove "from paddle.fluid.dygraph import Layer"
+2020-10-25 15:13:23 - utils.py:27 - WARNING - pspnet.py:5 remove "from paddle.fluid.dygraph import Conv2D"
+2020-10-25 15:13:23 - utils.py:27 - WARNING - pspnet.py:6 remove "from paddle.fluid.dygraph import BatchNorm"
+2020-10-25 15:13:23 - utils.py:27 - WARNING - pspnet.py:7 remove "from paddle.fluid.dygraph import Dropout"
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:14 Layer -> paddle.fluid.dygraph.Layer
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:22 fluid -> paddle.fluid
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:23 Conv2D -> paddle.fluid.dygraph.Conv2D
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:24 BatchNorm -> paddle.fluid.dygraph.BatchNorm
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:31 fluid -> paddle.fluid
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:33 fluid -> paddle.fluid
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:36 fluid -> paddle.fluid
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:40 Layer -> paddle.fluid.dygraph.Layer
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:46 fluid -> paddle.fluid
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:60 fluid -> paddle.fluid
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:61 Conv2D -> paddle.fluid.dygraph.Conv2D
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:62 BatchNorm -> paddle.fluid.dygraph.BatchNorm
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:63 Dropout -> paddle.fluid.dygraph.Dropout
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:64 Conv2D -> paddle.fluid.dygraph.Conv2D
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:76 fluid -> paddle.fluid
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:86 fluid -> paddle.fluid
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:86 fluid -> paddle.fluid
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:88 to_variable -> paddle.fluid.dygraph.to_variable
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:1 add "import paddle"
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:1 paddle.fluid.dygraph.Layer -> paddle.fluid.dygraph.layers.Layer
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:1 paddle.fluid.dygraph.Conv2D -> paddle.fluid.dygraph.nn.Conv2D
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:1 paddle.fluid.dygraph.Sequential -> paddle.fluid.dygraph.container.Sequential
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:1 paddle.fluid.layers.adaptive_pool2d -> paddle.fluid.layers.nn.adaptive_pool2d
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:1 paddle.fluid.layers.interpolate -> paddle.fluid.layers.nn.interpolate
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:1 paddle.fluid.dygraph.Layer -> paddle.fluid.dygraph.layers.Layer
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:1 paddle.fluid.dygraph.Sequential -> paddle.fluid.dygraph.container.Sequential
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:1 paddle.fluid.dygraph.Conv2D -> paddle.fluid.dygraph.nn.Conv2D
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:1 paddle.fluid.dygraph.Dropout -> paddle.fluid.dygraph.nn.Dropout
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:1 paddle.fluid.dygraph.Conv2D -> paddle.fluid.dygraph.nn.Conv2D
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:1 paddle.fluid.dygraph.Sequential -> paddle.fluid.dygraph.container.Sequential
+2020-10-25 15:13:23 - utils.py:23 - INFO - pspnet.py:1 paddle.fluid.layers.interpolate -> paddle.fluid.layers.nn.interpolate
+2020-10-25 15:14:12 - utils.py:27 - WARNING - resnet_dilated.py:2 remove "import paddle.fluid as fluid"
+2020-10-25 15:14:12 - utils.py:27 - WARNING - resnet_dilated.py:3 remove "from paddle.fluid.dygraph import to_variable"
+2020-10-25 15:14:12 - utils.py:27 - WARNING - resnet_dilated.py:4 remove "from paddle.fluid.dygraph import Conv2D"
+2020-10-25 15:14:12 - utils.py:27 - WARNING - resnet_dilated.py:5 remove "from paddle.fluid.dygraph import BatchNorm"
+2020-10-25 15:14:12 - utils.py:27 - WARNING - resnet_dilated.py:6 remove "from paddle.fluid.dygraph import Pool2D"
+2020-10-25 15:14:12 - utils.py:27 - WARNING - resnet_dilated.py:7 remove "from paddle.fluid.dygraph import Linear"
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:15 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:33 Conv2D -> paddle.fluid.dygraph.Conv2D
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:42 BatchNorm -> paddle.fluid.dygraph.BatchNorm
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:50 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:87 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:91 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:143 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:147 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:177 Pool2D -> paddle.fluid.dygraph.Pool2D
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:188 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:196 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:203 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:211 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:219 Pool2D -> paddle.fluid.dygraph.Pool2D
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:222 Linear -> paddle.fluid.dygraph.Linear
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:244 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:276 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:284 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:292 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:300 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:308 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:313 fluid -> paddle.fluid
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:316 to_variable -> paddle.fluid.dygraph.to_variable
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:1 add "import paddle"
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Layer -> paddle.fluid.dygraph.layers.Layer
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Conv2D -> paddle.fluid.dygraph.nn.Conv2D
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Layer -> paddle.fluid.dygraph.layers.Layer
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Layer -> paddle.fluid.dygraph.layers.Layer
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Layer -> paddle.fluid.dygraph.layers.Layer
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Sequential -> paddle.fluid.dygraph.container.Sequential
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Sequential -> paddle.fluid.dygraph.container.Sequential
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Sequential -> paddle.fluid.dygraph.container.Sequential
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Sequential -> paddle.fluid.dygraph.container.Sequential
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Linear -> paddle.fluid.dygraph.nn.Linear
+2020-10-25 15:14:12 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.layers.reshape -> paddle.fluid.layers.nn.reshape
+2020-10-25 15:15:44 - utils.py:27 - WARNING - resnet_dilated.py:2 remove "import paddle.fluid as fluid"
+2020-10-25 15:15:44 - utils.py:27 - WARNING - resnet_dilated.py:3 remove "from paddle.fluid.dygraph import to_variable"
+2020-10-25 15:15:44 - utils.py:27 - WARNING - resnet_dilated.py:4 remove "from paddle.fluid.dygraph import Conv2D"
+2020-10-25 15:15:44 - utils.py:27 - WARNING - resnet_dilated.py:5 remove "from paddle.fluid.dygraph import BatchNorm"
+2020-10-25 15:15:44 - utils.py:27 - WARNING - resnet_dilated.py:6 remove "from paddle.fluid.dygraph import Pool2D"
+2020-10-25 15:15:44 - utils.py:27 - WARNING - resnet_dilated.py:7 remove "from paddle.fluid.dygraph import Linear"
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:15 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:33 Conv2D -> paddle.fluid.dygraph.Conv2D
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:42 BatchNorm -> paddle.fluid.dygraph.BatchNorm
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:50 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:87 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:91 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:143 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:147 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:177 Pool2D -> paddle.fluid.dygraph.Pool2D
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:188 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:196 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:203 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:211 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:219 Pool2D -> paddle.fluid.dygraph.Pool2D
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:222 Linear -> paddle.fluid.dygraph.Linear
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:244 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:276 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:284 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:292 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:300 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:308 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:313 fluid -> paddle.fluid
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:316 to_variable -> paddle.fluid.dygraph.to_variable
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:1 add "import paddle"
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Layer -> paddle.fluid.dygraph.layers.Layer
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Conv2D -> paddle.fluid.dygraph.nn.Conv2D
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Layer -> paddle.fluid.dygraph.layers.Layer
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Layer -> paddle.fluid.dygraph.layers.Layer
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Layer -> paddle.fluid.dygraph.layers.Layer
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Sequential -> paddle.fluid.dygraph.container.Sequential
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Sequential -> paddle.fluid.dygraph.container.Sequential
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Sequential -> paddle.fluid.dygraph.container.Sequential
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Sequential -> paddle.fluid.dygraph.container.Sequential
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.dygraph.Linear -> paddle.fluid.dygraph.nn.Linear
+2020-10-25 15:15:44 - utils.py:23 - INFO - resnet_dilated.py:1 paddle.fluid.layers.reshape -> paddle.fluid.layers.nn.reshape
